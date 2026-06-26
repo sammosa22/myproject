@@ -1,6 +1,2 @@
-h1{
-    color: red;
-}
-body{
-    background-color: aquamarine;
-}
+body{background-color: aquamarine;}
+
